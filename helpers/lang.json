@@ -1,0 +1,70 @@
+{
+    "actions": {
+        "create": {
+            "en": "added successfully",
+            "ar": "تمت الاضافة بنجاح"
+        },
+        "update": {
+            "en": "updated successfully",
+            "ar": "تم التعديل بنجاح"
+        },
+        "delete": {
+            "en": "deleted successfully",
+            "ar": "تم الحذف بنجاح"
+        },
+        "get": {
+            "en": "Get data successfully",
+            "ar": "تم الحصول على المعلومات بنجاح"
+        },
+        "login": {
+            "en": "logged in successfully",
+            "ar": "تم تسجيل الدخول بنجاح"
+        },
+        "signup": {
+            "en": "signed up successfully",
+            "ar": "تم انشاء حساب جديد بنجاح"
+        },
+        "verifyCode":{
+            "en":"code verified successfully",
+            "ar":"تم تأكيد الرمز"
+        }
+    },
+    "errors": {
+        "serverError": {
+            "en": "Server error",
+            "ar": "خطأ في السيرفر"
+        },
+        "unAuthorized": {
+            "en": "unAuthorized user",
+            "ar": "هذا المستخدم غير مسجل"
+        },
+        "alreadyExist": {
+            "en": "already exist",
+            "ar": "موجود مسبقا"
+        },
+        "notFound": {
+            "en": "Not found",
+            "ar": "غير موجود"
+        },
+        "wrongPass":{
+            "en":"Wrong password",
+            "ar":"كلمة السر غير صحيحة"
+        },
+        "parentQuestion":{
+            "en":"parent question not found",
+            "ar":"السؤال السابق غير موجود"
+        },
+        "parentAnswer":{
+            "en":"parent answer not found",
+            "ar":"الجواب السابق غير موجود"
+        },
+        "questionRedundancy":{
+            "en":"same question with the same parent already exist",
+            "ar":"السؤال موجود مسبقا"
+        },
+        "multipeChoice":{
+            "en":"please insert the choices",
+            "ar":"الرجاء ادخال الخيارات"
+        }
+    }
+}
